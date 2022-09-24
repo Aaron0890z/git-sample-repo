@@ -2,9 +2,6 @@ git status -> status of dir
 git init -> init git in dir
 git add ->
 
-
-
-
-
+code of branch 1
 
 code of pvb2
